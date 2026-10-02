@@ -1,0 +1,17 @@
+# Visual Studio / .NET ユーザーファイル
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 実行ファイルやログ
+*.exe
+*.dll
+*.pdb
+*.log
+
+# ローカル設定ファイル（INIなど）
+settings.ini
